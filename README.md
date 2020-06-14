@@ -2,27 +2,27 @@
 
 This document is a collection of useful **links, resources, advice & more** about the Software as a Service business, especially tailored towards developers.
 
-Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to [receive updates](https://www.notion.so/Micro-SaaS-for-Developers-08e00f2c604246afa203fb95de29e8c5#e0831c3db5ca4a6e935504d89e66a9ba) about this document, scroll to the end.*
+Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to receive updates about this document, fill the form [here](https://nicksmavic.typeform.com/to/F3DuLz).*
 
 ---
 
 - [💫 Core Knowledge](#-core-knowledge)
-    * [What is SaaS? and Micro-SaaS?](#what-is-saas--and-micro-saas-)
-    * [Why SaaS?](#why-saas-)
-    * [What does "bootstrapping" mean?](#what-does--bootstrapping--mean-)
-- [♼ What's the Building Process of Micro-SaaS?](#-what-s-the-building-process-of-micro-saas-)
+    * [What is SaaS? and Micro-SaaS?](#what-is-saas-and-micro-saas)
+    * [Why SaaS?](#why-saas)
+    * [What does "bootstrapping" mean?](#what-does-bootstrapping-mean)
+- [♼ What's the Building Process of Micro-SaaS?](#-what-s-the-building-process-of-micro-saas)
   * [💡 Get Ideas for your product](#-get-ideas-for-your-product)
   * [✏️ Validate your Idea](#-validate-your-idea)
   * [🛠 Build your MVP](#-build-your-mvp)
-  * [🚀 Pre-Launch & Launch](#-pre-launch---launch)
+  * [🚀 Pre-Launch & Launch](#-pre-launch--launch)
   * [🌱 Grow organically](#-grow-organically)
-  * [🌠 What's next?](#-what-s-next-)
+  * [🌠 What's next?](#-whats-next)
 - [❓ FAQ](#-faq)
-    + [What are the key metrics of SaaS?](#what-are-the-key-metrics-of-saas-)
+    + [What are the key metrics of SaaS?](#what-are-the-key-metrics-of-saas)
     + [How do I sell my SaaS product?](#how-do-i-sell-my-saas-product-by-colin-dowling)
-    + [What's the Customer Lifecycle of SaaS?](#what-s-the-customer-lifecycle-of-saas-)
-    + [What's the best pricing strategy?](#what-s-the-best-pricing-strategy-)
-    + [Where do I publish my MVP?](#where-do-i-publish-my-mvp-)
+    + [What's the Customer Lifecycle of SaaS?](#whats-the-customer-lifecycle-of-saas)
+    + [What's the best pricing strategy?](#whats-the-best-pricing-strategy)
+    + [Where do I publish my MVP?](#where-do-i-publish-my-mvp)
 - [🖼 Landing Page](#-landing-page)
     + [Page Builders](#page-builders)
     + [Landing page Templates](#landing-page-templates)
@@ -36,7 +36,7 @@ Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to [
 - [📈 Examples of successful Micro-SaaS companies and makers](#-examples-of-successful-micro-saas-companies-and-makers)
 - [📉 Failure stories](#-failure-stories)
 - [📕 Books](#-books)
-- [🗞 Blogs & Communities](#-blogs---communities)
+- [🗞 Blogs & Communities](#-blogs--communities)
 - [👀 Credits](#-credits)
 - [🎳 Contributions](#-contributions)
 - [🗺 Roadmap](#-roadmap)
