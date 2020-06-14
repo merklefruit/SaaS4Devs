@@ -1,8 +1,12 @@
 # Micro-SaaS for Developers
 
+<img style=“center”  src=“Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/saas4devs.png”></img>
+
 This document is a collection of useful **links, resources, advice & more** about the Software as a Service business, especially tailored towards developers.
 
 Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to receive updates about this document, fill the form [here](https://nicksmavic.typeform.com/to/F3DuLz).*
+
+**Don’t forget to leave a ⭐️ if you found this useful!**
 
 ---
 
