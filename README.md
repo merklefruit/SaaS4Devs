@@ -1,14 +1,17 @@
-# Micro-SaaS for Developers
-
-<img style=“center”  src=“Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/saas4devs.png”></img>
+<div align=center>
+<h1>Micro-SaaS for Developers</h1>
+<img height=320 src=Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/saas4devs.png/>
+</div>
 
 This document is a collection of useful **links, resources, advice & more** about the Software as a Service business, especially tailored towards developers.
 
-Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to receive updates about this document, fill the form [here](https://nicksmavic.typeform.com/to/F3DuLz).*
+Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to receive updates about this project, please fill the form [here](https://nicksmavic.typeform.com/to/F3DuLz).*
 
 **Don’t forget to leave a ⭐️ if you found this useful!**
 
 ---
+
+# Table of Contents
 
 - [💫 Core Knowledge](#-core-knowledge)
     * [What is SaaS? and Micro-SaaS?](#what-is-saas-and-micro-saas)
@@ -47,6 +50,7 @@ Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to r
 - [🎉 Get Updates](#-get-updates)
 - [📢 Disclaimer](#-disclaimer)
 
+---
 
 ## 💫 Core Knowledge
 
@@ -397,9 +401,13 @@ Read more:
 - [The 6 stages of the SaaS customer lifecycle](https://blog.hubspot.com/service/saas-customer-lifecycle)
 - [Driving SaaS growth through the customer lifecycle](https://www.cloudave.com/29267/driving-saas-growth-through-the-customer-lifecycle/)
 
+[ TODO → Stay tuned for more → scroll to the "Get Updates" section ]
+
 ### What's the best pricing strategy?
 
 [https://thebootstrappedfounder.com/newsletter/episode-29/](https://thebootstrappedfounder.com/newsletter/episode-29/)
+
+[ TODO → Stay tuned for more → scroll to the "Get Updates" section ]
 
 ### Where do I publish my MVP?
 
@@ -446,6 +454,8 @@ This is another good option to enforce good design and best practices on your la
 
 - [Themesberg Rocket](https://demo.themesberg.com/rocket/) - 69$
 
+[ TODO → Stay tuned for more → scroll to the "Get Updates" section ]
+
 ### Curated examples websites
 
 These websites are endless wells of examples from which to take inspiration when designing and building your landing page:
@@ -461,6 +471,8 @@ These articles are useful for getting ideas and advice on key aspects of web des
 
 - [33 examples of highly effective SaaS website designs](https://webflow.com/blog/saas-website-design-examples) by Tomas Laurinavicius
 
+[ TODO → Stay tuned for more → scroll to the "Get Updates" section ]
+
 ---
 
 # 🛠 Tools used by boostrapped founders
@@ -475,24 +487,24 @@ You need to track how much traffic you're getting, and how users are interacting
 
 When choosing an analytics tool, there are 2 core business models to evaluate: services that are free for you but sell your customer's data, and services that cost you but are private. I highly recommend going for a private and simple tool because Google Analytics is blocked by all mainstream ad blockers.
 
-- **[Google Analytics](https://marketingplatform.google.com/about/analytics/)**: The "standard" analytics service offered by Google. It has a learning curve and a lot of extra functionality, it doesn't focus on customer's privacy and requires you to add a cookie banner on your website. It's blocked by most ad blockers. — free
-- **[Simple Analytics](https://simpleanalytics.com/)**: Like the name suggests, it's very simple. It has basic "page view" and "visitor" numbers, and that's it. You integrate it in 5 minutes in the <body> of your pages and you're done. — starts at 20$/mo
-- **[UseFathom](https://usefathom.com/)**: Simple, light-weight, privacy focused. Tracks bounce rate and average time on site among other things. — starts at 14$/mo
-- **[Clicky](https://clicky.com/)**: It shows how visitors interact with the site. You can see which pages they visit before signing up for a newsletter. Or how many days it takes for them to go from discovering the blog to buying a product. — free plan
-- **[Splitbee](https://splitbee.io/)**: Analytics with A/B testing capabilities. — free plan
-- [**Plausible](https://plausible.io/):** Simple, privacy compliant, great dashboard — 6$/mo
-- [**Amplitude](https://amplitude.com/behavioral-analytics-platform):** Behavioral Analytics platform. Comparable to Google Analytics and has a lot of features. — free plan
-- [**Toasted Analytics](https://toastedanalytics.com):** Simple. Tracks pageviews and events. Only 3kb tracker file. Has API access included. — starts at 3.5$/mo
+- [Google Analytics](https://marketingplatform.google.com/about/analytics/): The "standard" analytics service offered by Google. It has a learning curve and a lot of extra functionality, it doesn't focus on customer's privacy and requires you to add a cookie banner on your website. It's blocked by most ad blockers. — free
+- [Simple Analytics](https://simpleanalytics.com/): Like the name suggests, it's very simple. It has basic "page view" and "visitor" numbers, and that's it. You integrate it in 5 minutes in the <body> of your pages and you're done. — starts at 20$/mo
+- [UseFathom](https://usefathom.com/): Simple, light-weight, privacy focused. Tracks bounce rate and average time on site among other things. — starts at 14$/mo
+- [Clicky](https://clicky.com/): It shows how visitors interact with the site. You can see which pages they visit before signing up for a newsletter. Or how many days it takes for them to go from discovering the blog to buying a product. — free plan
+- [Splitbee](https://splitbee.io/): Analytics with A/B testing capabilities. — free plan
+- [Plausible](https://plausible.io/): Simple, privacy compliant, great dashboard — 6$/mo
+- [Amplitude](https://amplitude.com/behavioral-analytics-platform): Behavioral Analytics platform. Comparable to Google Analytics and has a lot of features. — free plan
+- [Toasted Analytics](https://toastedanalytics.com): Simple. Tracks pageviews and events. Only 3kb tracker file. Has API access included. — starts at 3.5$/mo
 
 ### Feedback collection and Feature requests
 
 Getting feedback early on is crucial for your SaaS business. Here's a list of feedback collection tools.
 
-- [**Canny](https://canny.io/):** Collect feedback from customers and see a list of most wanted features ranked by upvotes. — starts at 50$/mo
-- **[Acute](https://getacute.io/)**: Gain actionable insight from feedback with an embedded widget. Good integrations with other services. — free plan + 25$/mo after 20 suggestions.
-- [**Kampsite**](https://www.kampsite.co/): Get suggestions on new features. See what features your users would pay for. Discuss ideas with your customers. Share your roadmap. — free plan + 10$/mo after 15 suggestions.
-- [**Tawk.to**](https://www.tawk.to): Message customers directly on your website — free plan
-- [**Crisp**](https://crisp.chat/en/): Live chat + ticket handling software — free plan
+- [Canny](https://canny.io/): Collect feedback from customers and see a list of most wanted features ranked by upvotes. — starts at 50$/mo
+- [Acute](https://getacute.io/): Gain actionable insight from feedback with an embedded widget. Good integrations with other services. — free plan + 25$/mo after 20 suggestions.
+- [Kampsite](https://www.kampsite.co/): Get suggestions on new features. See what features your users would pay for. Discuss ideas with your customers. Share your roadmap. — free plan + 10$/mo after 15 suggestions.
+- [Tawk.to](https://www.tawk.to): Message customers directly on your website — free plan
+- [Crisp](https://crisp.chat/en/): Live chat + ticket handling software — free plan
 
 ### Recurring Payment Platforms
 
@@ -742,6 +754,7 @@ I've collected all this information over time. I'm trying my best to credit ever
 # 🎳 Contributions
 
 If you'd like to add something to this document, please do by contacting me!
+Feel free to send PRs too.
 
 Email: [nicksmavic@gmail.com](mailto:nicksmavic@gmail.com)
 
@@ -760,11 +773,11 @@ Email: [nicksmavic@gmail.com](mailto:nicksmavic@gmail.com)
 
 # 🎉 Get Updates
 
-You can sign up here to get updates.
+You can sign up [here](https://nicksmavic.typeform.com/to/F3DuLz) to get updates.
 
 *I'll send you an email only once I've added new **major** sections. A lot more exciting stuff to come!*
 
-[https://nicksmavic.typeform.com/to/F3DuLz](https://nicksmavic.typeform.com/to/F3DuLz)
+Full link: [https://nicksmavic.typeform.com/to/F3DuLz](https://nicksmavic.typeform.com/to/F3DuLz)
 
 # 📢 Disclaimer
 
