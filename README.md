@@ -109,9 +109,11 @@ This is the process which outlines the necessary steps from idea to success of m
 
 > The goal of this document is to present you with as many different view points as possible in order to give you a broader understanding of the topics. Further personal research is advised, and you can start with the sources of the documents linked in the below sections.
 
-![Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/joe-mannarino-v52GHdS-I38-unsplash_(1).jpg](Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/joe-mannarino-v52GHdS-I38-unsplash_(1).jpg)
+<div align=center>
+<img height=320 src=Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/joe-mannarino-v52GHdS-I38-unsplash_(1).jpg></img>
+</div>
 
-[Joe Mannarino](https://unsplash.com/photos/v52GHdS-I38) /Unsplash
+<div align=center><a href=https://unsplash.com/photos/v52GHdS-I38>Joe Mannarino</a>/Unsplash</div>
 
 ## 💡 Get Ideas for your product
 
@@ -194,9 +196,12 @@ This is the kind of advantage you can only get if you've identified a customer a
 
 *Sources: [good micro-saas-ideas](https://tylertringas.com/good-micro-saas-ideas/), [makebook#2](https://makebook.io/#2), [meat-grinder approach](https://tylertringas.com/business-ideas-meat-grinder/), [AskHN: looking for ideas](https://news.ycombinator.com/item?id=23290536), [find saas ideas](https://tomzaragoza.com/how-to-find-saas-ideas), [nugget](https://nugget.one/ideas), [first principles](https://fs.blog/2018/04/first-principles/),* 
 
-![Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/daria-nepriakhina-zoCDWPuiRuA-unsplash_(1).jpg](Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/daria-nepriakhina-zoCDWPuiRuA-unsplash_(1).jpg)
+<div align=center>
+<img height=320 src=Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/daria-nepriakhina-zoCDWPuiRuA-unsplash_(1).jpg ></img>
+</div>
 
-[Daria Nepriakhina](https://unsplash.com/photos/zoCDWPuiRuA) /Unsplash
+
+<div align=center><a href=https://unsplash.com/photos/zoCDWPuiRuA>Daria Nepriakhina</a> /Unsplash</div>
 
 ## ✏️ Validate your Idea
 
@@ -266,17 +271,14 @@ The results of the research done on the platforms above should give you a fairly
 
 *Sources: [validating product ideas](https://training.kalzumeus.com/newsletters/archive/validating_product_ideas), [business idea validation](https://peterthaleikis.com/business-idea-validation/), [how to brainstorm business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c),* 
 
-![Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/markus-spiske-C0koz3G1I4I-unsplash_(1).jpg](Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/markus-spiske-C0koz3G1I4I-unsplash_(1).jpg)
-
-[Markus Spiske](https://unsplash.com/photos/C0koz3G1I4I) /Unsplash
+<div align=center>
+<img height=320 src=Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/markus-spiske-C0koz3G1I4I-unsplash_(1).jpg></img>
+</div>
+<div align=center><a href=https://unsplash.com/photos/C0koz3G1I4I>Markus Spiske</a> /Unsplash</div>
 
 ## 🛠 Build your MVP
 
 > The Minimum Viable Product is that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort.
-
-![Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/mvp.jpg](Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/mvp.jpg)
-
-pic by [x-staticmediagroup](https://x-staticmediagroup.com/blog/what-mvp-and-why-do-i-care)
 
 *Since this reference is aimed at developers, I won't include tools like Github or BitBucket. I'll assume that you're already comfortable with a toolbox of technologies. That being said, here are some tips on the production aspect which put technical founders to struggle.*
 
@@ -288,9 +290,9 @@ You shouldn't start coding a single line of your MVP until you have a CLEAR sale
 
 *Sources: [MVP vs MLP](https://tinytracker.co/blog/minimum-viable-product-vs-minimum-lovable-product),* 
 
-![Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/bill-jelen-woWf_VJ7dNs-unsplash_(1).jpg](Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/bill-jelen-woWf_VJ7dNs-unsplash_(1).jpg)
-
-[Bill Jelen](https://unsplash.com/photos/woWf_VJ7dNs) /Unsplash
+<div align=center>
+<img height=320 src=Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/bill-jelen-woWf_VJ7dNs-unsplash_(1).jpg ></img></div>
+<div align=center><a href=https://unsplash.com/photos/woWf_VJ7dNs >Bill Jelen</a> /Unsplash</div>
 
 ## 🚀 Pre-Launch & Launch
 
@@ -300,9 +302,9 @@ You shouldn't start coding a single line of your MVP until you have a CLEAR sale
 
 *Sources: [David Perell](https://twitter.com/david_perell/status/1246897903387344896), [Marker product hunt strat](https://trello.com/b/7VnxZpvO/maker-20-product-hunt-plan), [checklist of pre-launch marketing](https://www.preceptist.com/blog/pre-launch-marketing-checklist-for-saas-startups/), [launch multiple times on PH](https://www.reddit.com/r/SaaS/comments/gri819/how_to_launch_on_product_hunt_multiple_times/), [4 steps to a successful launch](https://medium.com/pminsider/4-steps-to-a-successful-saas-product-launch-c520e6765948), [build buzz on a bootstrap budget](https://microconf-vault.webflow.io/?tags=launching),* 
 
-![Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/francesco-gallarotti-ruQHpukrN7c-unsplash-min.jpg](Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/francesco-gallarotti-ruQHpukrN7c-unsplash-min.jpg)
-
-[Francesco Gallarotti](https://unsplash.com/photos/ruQHpukrN7c) /Unsplash
+<div align=center>
+<img height=320 src=Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/francesco-gallarotti-ruQHpukrN7c-unsplash-min.jpg ></img></div>
+<div align=center><a href=https://unsplash.com/photos/ruQHpukrN7c > Francesco Gallarotti </a> /Unsplash</div>
 
 ## 🌱 Grow organically
 
@@ -337,9 +339,9 @@ Traction will determine the success of your business. This is why you should tak
 
 *Sources: [traction channels](https://growthrocks.com/blog/infographic-traction-channels/), Traction (book),* 
 
-![Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/javier-allegue-barros-C7B-ExXpOIE-unsplash_(1).jpg](Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/javier-allegue-barros-C7B-ExXpOIE-unsplash_(1).jpg)
-
-[Javier Allegue Barros](https://unsplash.com/photos/C7B-ExXpOIE) /Unsplash
+<div align=center>
+<img height=320 src=Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/javier-allegue-barros-C7B-ExXpOIE-unsplash_(1).jpg ></img></div>
+<div align=center><a href= https://unsplash.com/photos/C7B-ExXpOIE > Javier Allegue Barros </a> /Unsplash</div>
 
 ## 🌠 What's next?
 
