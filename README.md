@@ -1,6 +1,6 @@
 <div align=center>
 <h1>Micro-SaaS for Developers</h1>
-<img height=320 src=Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/saas4devs.png/>
+<img height=330 src=Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/saas4devs.png/>
 </div>
 
 This document is a collection of useful **links, resources, advice & more** about the Software as a Service business, especially tailored towards developers.
@@ -755,8 +755,8 @@ I've collected all this information over time. I'm trying my best to credit ever
 
 # 🎳 Contributions
 
-If you'd like to add something to this document, please do by contacting me!
-Feel free to send PRs too.
+If you'd like to add something to this document, please do by contacting me by email.
+Feel free to send PRs here on GitHub too.
 
 Email: [nicksmavic@gmail.com](mailto:nicksmavic@gmail.com)
 
@@ -769,7 +769,6 @@ Email: [nicksmavic@gmail.com](mailto:nicksmavic@gmail.com)
 - Add Launch section
 - Add What's Next section
 - Add a brief description to every book to motivate why I've chosen it
-- **[Baremetrics](http://baremetrics.com)**: Integrates with Stripe and offers graphs of MRR, Revenue, Fees, LTV, Churn, & more. — starts at 50$/mo
 
 ---
 
