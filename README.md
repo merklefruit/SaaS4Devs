@@ -35,7 +35,7 @@ Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to r
     + [Landing page Templates](#landing-page-templates)
     + [Curated examples websites](#curated-examples-websites)
     + [Explained examples with advice](#explained-examples-with-advice)
-- [🛠 Tools used by boostrapped founders](#-tools-used-by-boostrapped-founders)
+- [🛠 Tools used by bootstrapped founders](#-tools-used-by-bootstrapped-founders)
     + [Analytics and Tracking](#analytics-and-tracking)
     + [Feedback collection and Feature requests](#feedback-collection-and-feature-requests)
     + [Recurring Payment Platforms](#recurring-payment-platforms)
@@ -194,7 +194,7 @@ Luckily, since you've already met your customers and talked with them, you shoul
 
 This is the kind of advantage you can only get if you've identified a customer and their problems before you started on the solution. Otherwise you'll build something generic.
 
-*Sources: [good micro-saas-ideas](https://tylertringas.com/good-micro-saas-ideas/), [makebook#2](https://makebook.io/#2), [meat-grinder approach](https://tylertringas.com/business-ideas-meat-grinder/), [AskHN: looking for ideas](https://news.ycombinator.com/item?id=23290536), [find saas ideas](https://tomzaragoza.com/how-to-find-saas-ideas), [nugget](https://nugget.one/ideas), [first principles](https://fs.blog/2018/04/first-principles/),* 
+*Sources: [good micro-saas-ideas](https://tylertringas.com/good-micro-saas-ideas/), [makebook#2](https://makebook.io/#2), [meat-grinder approach](https://tylertringas.com/business-ideas-meat-grinder/), [AskHN: looking for ideas](https://news.ycombinator.com/item?id=23290536), [find saas ideas](https://tomzaragoza.com/how-to-find-saas-ideas), [nugget](https://nugget.one/ideas), [first principles](https://fs.blog/2018/04/first-principles/)*
 
 <div align=center>
 <img height=320 src=Micro%20SaaS%20for%20Developers%20b164999b07e54aa88cbb5bfd411d7520/daria-nepriakhina-zoCDWPuiRuA-unsplash_(1).jpg ></img>
@@ -286,7 +286,7 @@ The results of the research done on the platforms above should give you a fairly
 
 You shouldn't start coding a single line of your MVP until you have a CLEAR sales channel for your first 15-20 customers. This point is discussed in the Get an Idea section above, but it's too important so I'll repeat myself. You mustn't build your product and THEN find a sales channel, but quite the opposite.
 
-[ TODO ]
+[ TODO → Stay tuned for more → scroll to the "Get Updates" section ]
 
 *Sources: [MVP vs MLP](https://tinytracker.co/blog/minimum-viable-product-vs-minimum-lovable-product),* 
 
@@ -477,7 +477,7 @@ These articles are useful for getting ideas and advice on key aspects of web des
 
 ---
 
-# 🛠 Tools used by boostrapped founders
+# 🛠 Tools used by bootstrapped founders
 
 - Free for dev: [https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev#email)
 - [https://www.notion.so/ab4efae8d89c48d5b6903d392e69681d?v=948d69d8a6d946ab9e14e125caafac83](https://www.notion.so/ab4efae8d89c48d5b6903d392e69681d?v=948d69d8a6d946ab9e14e125caafac83) This list of tools was made by Harry Lucas from this IndieHackers post
