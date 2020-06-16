@@ -479,9 +479,8 @@ These articles are useful for getting ideas and advice on key aspects of web des
 
 # 🛠 Tools used by bootstrapped founders
 
-- Free for dev: [https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev#email)
-- [https://www.notion.so/ab4efae8d89c48d5b6903d392e69681d?v=948d69d8a6d946ab9e14e125caafac83](https://www.notion.so/ab4efae8d89c48d5b6903d392e69681d?v=948d69d8a6d946ab9e14e125caafac83) This list of tools was made by Harry Lucas from this IndieHackers post
-- [https://www.notion.so/Bootstrapper-Entrepreneur-Resources-baf3125ae7f24723801291d1300beda4](https://www.notion.so/Bootstrapper-Entrepreneur-Resources-baf3125ae7f24723801291d1300beda4)
+- [Free for dev](https://github.com/ripienaar/free-for-dev)
+- [Bootstrapper/Entrepreneur Resources](https://www.notion.so/Bootstrapper-Entrepreneur-Resources-baf3125ae7f24723801291d1300beda4)
 
 ### Analytics and Tracking
 
@@ -639,7 +638,7 @@ While adding success stories and examples, I couldn't include some failures too.
 
 ### I spent 2 years and I got 0 clients
 
-[*staffer.space](https://staffer.space/) (by [u/valenso](https://www.reddit.com/r/SaaS/comments/gqx4ls/i_spent_2_years_i_got_zero_clients_my_honest_saas/))*
+*[staffer.space](https://staffer.space/) (by [u/valenso](https://www.reddit.com/r/SaaS/comments/gqx4ls/i_spent_2_years_i_got_zero_clients_my_honest_saas/))*
 
 Like the title says, I built a SaaS software for 2 years and got 0 users.
 
@@ -752,6 +751,8 @@ Did you think this document was long enough? Not even close. I’ve barely scrat
 - [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers): A curated collection of marketing articles & tools to grow your product.
 - [Unofficial Micro-Conf video directory](https://microconf-vault.webflow.io/?tags=launching): Videos sourced from MicroConf, finally gathered in one place.
 - [Growth.design](https://growth.design/psychology/): Great list of design psychology principles explained with practical examples.
+- [Free for dev](https://github.com/ripienaar/free-for-dev): A list of software (SaaS, PaaS, IaaS, etc.) that offer free tiers for developers.
+- [Bootstrapper/Entrepreneur Resources](https://www.notion.so/Bootstrapper-Entrepreneur-Resources-baf3125ae7f24723801291d1300beda4)
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
@@ -781,6 +782,7 @@ Email: [nicksmavic@gmail.com](mailto:nicksmavic@gmail.com)
 - Add Launch section
 - Add What's Next section
 - Add a brief description to every book to motivate why I've chosen it
+- Add list of best newsletters to follow
 
 ---
 
