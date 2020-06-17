@@ -634,7 +634,7 @@ We received our first paid client in September, 2015 and have been steadily grow
 
 # 📉 Failure stories
 
-While adding success stories and examples, I couldn't include some failures too. It's natural that a lot of SaaS businesses fail like any other company. There's a lot to learn from people who have failed. I thereby consider these stories precious insights and the people who've shared them are real contributors to the community.
+While adding success stories and examples, I couldn't not include some failures too. It's natural that a lot of SaaS businesses fail, like any other company. There's a lot to learn from people who have failed. I thereby consider these stories precious insights and the people who've shared them are real contributors to the community.
 
 ### I spent 2 years and I got 0 clients
 
@@ -732,13 +732,18 @@ Keeping that in consideration, here are the best books for devs trying to make i
 
 # 🗞 Blogs & Communities
 
-- [IndieHackers](https://www.indiehackers.com/) (community): THE SINGLE BEST COMMUNITY for devs, makers, and solo founders.
-- [HackerNews](https://news.ycombinator.com/) (community): Extremely prolific forum for technology enthusiasts & developers.
-- [SaaSX](http://saasx.com) (blog): provides a wide array of resources for tech company founders and leaders — from tools to advice to best practices and more. Focused on strategy & sales.
-- [SaaStr](https://www.saastr.com/) (blog): the world's largest community for business software. Focus on B2B
-- [SaaSInvaders](https://www.saasinvaders.com/) (blog): great deals on tools & resources for startup growth
-- [r/SaaS Subreddit](https://www.reddit.com/r/SaaS/) (community): 10k members all interested in SaaS.
-- [https://www.cenario.co/top-saas-marketing-blogs](https://www.cenario.co/top-saas-marketing-blogs)
+- [IndieHackers](https://www.indiehackers.com/): The #1 best community for devs, makers, and solo founders. Can’t recommend it enough.
+- [HackerNews](https://news.ycombinator.com/): Extremely prolific forum for technology enthusiasts & developers.
+- [SaaSX](http://saasx.com): from tools to advice to best practices about SaaS and more.
+- [SaaStr](https://www.saastr.com/): the world's largest community for business software. Focus on B2B
+- [SaaSInvaders](https://www.saasinvaders.com/): great deals on tools & resources for startup growth
+- [r/SaaS](https://www.reddit.com/r/SaaS/): 10k members all interested in SaaS.
+- [Andrew Chen](https://andrewchen.co/): thoughtful essays on startups and marketing from a true Silicon Valley insider.
+- [Tom Tunguz](https://tomtunguz.com): One of the best VC blogs.
+- [Brianne Kimmel](http://briannekimmel.com): Weekly essays on SaaS and articles about VC.
+- [For Entrepreneurs](https://www.forentrepreneurs.com/saas/): Incredibly useful articles about SaaS & business. The [0-to-100](https://www.forentrepreneurs.com/zero-to-100/) article is a must read.
+- [The SaaS CFO](https://www.thesaascfo.com): One of the best blogs for SaaS metrics and forecasting.
+- [All that SaaS](https://allthatsaas.com): A blog dedicated to everything about SaaS: Roundups, Product Reviews, Interviews, Tips, & Insights.
 
 ---
 
