@@ -1,10 +1,9 @@
 <div align=center>
 <img width=900 src=media/saas4devs.png/>
 </div>
+This document is a collection of useful **resources, advice & more** about the Software as a Service business, especially tailored towards developers.
 
-This document is a collection of useful **links, resources, advice & more** about the Software as a Service business, especially tailored towards developers.
-
-Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to receive updates about this project, subscribe [here](https://buttondown.email/saas4devs).*
+Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to receive updates about this project, [subscribe here](https://buttondown.email/saas4devs).*
 
 **Don’t forget to leave a ⭐️ if you found this useful!**
 
@@ -289,7 +288,7 @@ You shouldn't start coding a single line of your MVP until you have a CLEAR sale
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
-*Sources: [MVP vs MLP](https://tinytracker.co/blog/minimum-viable-product-vs-minimum-lovable-product),* 
+*Sources: [MVP vs MLP](https://tinytracker.co/blog/minimum-viable-product-vs-minimum-lovable-product)*
 
 <div align=center>
 <img height=320 src=media/bill-jelen-woWf_VJ7dNs-unsplash_(1).jpg ></img></div>
@@ -297,9 +296,61 @@ You shouldn't start coding a single line of your MVP until you have a CLEAR sale
 
 ## 🚀 Pre-Launch & Launch
 
-### How to Build Buzz & Backlinks on a Bootstrap Budget (by [Irina Nica)](https://microconf-vault.webflow.io/?tags=launching)
+### How to Build Buzz & Backlinks on a Bootstrap Budget (by [Irina Nica)](https://microconf-vault.webflow.io/?tags=launching&search=irina%20nica)
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
+
+### Here's what I've learned about launching online products (by [David Perell](https://twitter.com/david_perell/status/1246897903387344896))
+
+*David is a strong advocate of the "audience first" approach, which is becoming ever more common these days, and for a good reason. These tips are valuable if you're publishing anything from a blog article to a full-blown SaaS company on the Internet.*
+
+1. **Give tons of free stuff away**: The Internet rewards people who teach. Share your best ideas for free, and you will attract an audience of like-minded people. Build an audience before you launch your first product.
+2. **Build a niche audience**: Large audiences are sexy, niche audiences are profitable. Unique creators benefit from a lack of competition and loyal audiences. Build knowledge, gain a unique perspective, and share it with the world.
+3. **Listen to your audience**: Write about what you're interested in. Then, double-down on what your audience wants to learn about. Listen for phrases they repeat and write them down. Then, once it's time to write your sales copy, you can speak to your customer directly.
+4. **Start creating now**: Start before you're ready. Some people spend their whole lives waiting for the sound of a starting gun that never goes off. Don’t wait. The thing you’ve been waiting for is… your own permission.
+5. **Remember the compounding effect**: Audience building is a game of compounding. You start slowly, but once you gain momentum, you can hit escape velocity. The beginning of any compounding curve is a flat line. Keep publishing, listen to your audience, and aim to improve.
+6. **Have a vision**: Your product should come from the heart. Solving your own problems is the best way to do that. Here's a trick: Find something that bothers you, and if you can find ten people who have the same problem, build a solution. Then, write about your creation process.
+7. **Write a manifesto**: It's time to craft your story. Write a short (250 word) manifesto about your product. It should have three parts. First, outline the problem. Second, share your solution to the problem. Third, talk about the specifics of your solution.
+8. **Build buzz before your first product launch**: Remember the 3-2-1 strategy. Three months before you launch your first product, publish your manifesto. Two months before, share a preview. One month before launch, open your product for pre-sale to generate word-of-mouth buzz.
+9. **Show people your product**: When you buy a shirt, you want to feel it. You want to touch the nylon and examine the cotton. Launching an online product is no different. People want to see your product before they buy it.
+10. **Share your hit singles**: Before a new album comes out, musicians freely share the best songs. The added hype is worth more than the allure of secrecy. Your product should have a hit single too. Share your best nuggets of insight in free online articles, videos, and podcasts.
+
+### How to launch on Product Hunt multiple times (by [u/Michal_A](https://www.reddit.com/r/SaaS/comments/gri819/how_to_launch_on_product_hunt_multiple_times/))
+
+Judging by the sheer volume of threads and comments on the topic, people expect great results from their Product Hunt launches. So is it worth a try? Let's have a look at a couple of popular writeups.
+
+- [This guy](https://medium.com/@guilhermerizzo/i-launched-my-first-product-on-product-hunt-d61d91040656) made $74.55 over four days from 1000 visitors. Doesn't seem too bad, until you compare that with a professional's daily rate and notice he also launched in six other places.
+- [These guys](https://medium.com/@MarieOuttier/lessons-from-launching-a-saas-tool-on-product-hunt-launch-591e8e33cbdb) got **450 upvotes from 100 sign-ups** and 2000 visitors, and no mention of paying customers. It seems the number of upvotes bears no relation to the value of your product. **Most upvoters will only read the description**.
+- [And these guys](https://blog.taskpigeon.co/launching-product-hunt-lessons/) spent a lot of effort preparing their launch and contacting everyone they could about it. They got nearly 2000 visitors, 138 signups, and again, no mention of profits.
+- I myself got over 1000 visitors. Tens of curious Hunters decided to sign up. I spent hours talking with them, it felt so good to receive their compliments. **None of them paid**.
+
+It appears that blogging about your Product Hunt launch will drive more traffic to your page than the launch itself. And still, why would you care about the traffic? Traffic is a vanity metric. All that matters are your profits. Is PH useless then?
+
+Product Hunt is a Twitter or Facebook of sorts - a place you mindlessly check to get a quick dopamine boost before getting back to work. **The products that thrive are the ones that draw attention and entertain, not solve problems**. It's unlikely launching your product on PH will make it magically start growing. That's not to say it's completely useless.
+
+-  An Indie Hacker had a cool idea with these intentions:
+  *"This past week I spent building [Startup Gifs](https://marketingexamples.com/gifs): A collection of gifs to brighten up your startups Slack channel. The idea is (fingers crossed) I can use this it as a honeypot, to draw some attention and then from that some new users check out my main project: "Marketing Examples"!
+  I made sure to **host the project on my own domain.** That way if I get any backlinks the “link juice” will flow to other pages on Marketing Examples helping them rank better"*.
+  The project itself was just a few gifs. [And it became the #4 product of the day](https://www.producthunt.com/posts/startup-gifs-2).
+
+- Similarly, Dan Siepen recently got 3000 page visits and 400 newsletter signups from his campaign that included a Product Hunt launch. The product? A list of fourty articles. [Read more about how he executed his campaign](https://syften.com/blog/post/saas_growth_case_studies). Dan is an expert growth marketer and made several Product Hunt launches before. Most for the same product. Free guides and newsletters get the most upvotes. Products? Not so much.
+
+- Chris Messina, the #1 Product Hunter, recently launched [a new version of Slack](https://www.producthunt.com/posts/slack-v20-05-10). They already had the copy and the screenshots. This launch looks like it took 15 minutes. It didn't get much attention, but I dare you to find an easier way to get in front of a few thousand eyeballs.
+
+How to get started then?
+
+**Give Product Hunt users what they want: a freebie that fills up time, but isn't too demanding**.
+Make a side project. Make it free and entertaining. Insert CTAs for your money-making product in it. And then launch. Here are some examples:
+
+- Curated free article
+- Email course
+- Newsletter
+- Non-obvious looking blog post
+- A free subset of your main product
+
+And after you launch make sure to stay around (or configure a monitoring tool like [syften](https://syften.com/)) and reply to comments.
+
+
 
 *Sources: [David Perell](https://twitter.com/david_perell/status/1246897903387344896), [Marker product hunt strat](https://trello.com/b/7VnxZpvO/maker-20-product-hunt-plan), [checklist of pre-launch marketing](https://www.preceptist.com/blog/pre-launch-marketing-checklist-for-saas-startups/), [launch multiple times on PH](https://www.reddit.com/r/SaaS/comments/gri819/how_to_launch_on_product_hunt_multiple_times/), [4 steps to a successful launch](https://medium.com/pminsider/4-steps-to-a-successful-saas-product-launch-c520e6765948), [build buzz on a bootstrap budget](https://microconf-vault.webflow.io/?tags=launching),[Where to launch your SaaS](https://sizle.io/how-to-maximise-traffic-to-a-bootstrapped-product-hunt-launch/), [100 places to share your startup](https://aflo.io/blog-post/100-places-to-launch-share-your-product/)* 
 
