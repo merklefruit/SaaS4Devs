@@ -528,7 +528,10 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 
 - [Baremetrics](https://baremetrics.com): Revenue tracking service — starts at 50$/mo
 - [Wistia](https://wistia.com/): Display marketing videos on your website — free plan
-- [Notion](https://www.notion.so/): All-in-one workspace. Notes, checklists, timelines, etc.
+- [Notion](https://www.notion.so/): All-in-one workspace. Notes, checklists, timelines, etc. — free plan
+- [Quaderno](https://quaderno.io): Simple Worldwide Sales Tax Reporting, handles invoices & VAT — starts at 50$/mo
+- [HelpHero](https://helphero.co): No-code intuitive user onboarding tours — starts at 25$/mo
+- [GetTerms](https://getterms.io): A simple privacy policy generator for businesses — free plan
 
 
 ### Complete Full-stack Boilerplates
@@ -765,7 +768,6 @@ Did you think this document was long enough? Not even close. I’ve barely scrat
 - [Unofficial Micro-Conf video directory](https://microconf-vault.webflow.io/?tags=launching): Videos sourced from MicroConf, finally gathered in one place.
 - [Growth.design](https://growth.design/psychology/): Great list of design psychology principles explained with practical examples.
 - [Free for dev](https://github.com/ripienaar/free-for-dev): A list of software (SaaS, PaaS, IaaS, etc.) that offer free tiers for developers.
-- [Bootstrapper/Entrepreneur Resources](https://www.notion.so/Bootstrapper-Entrepreneur-Resources-baf3125ae7f24723801291d1300beda4)
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
