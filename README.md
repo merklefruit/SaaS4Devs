@@ -38,6 +38,7 @@ Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to r
     + [Analytics and Tracking](#analytics-and-tracking)
     + [Feedback collection and Feature requests](#feedback-collection-and-feature-requests)
     + [Recurring Payment Platforms](#recurring-payment-platforms)
+    + [Miscellaneous tools & services](#miscellaneous-tools-&-services)
     + [Complete Full-stack Boilerplates](#complete-full-stack-boilerplates)
 - [📈 Success stories](#-examples-of-successful-micro-saas-companies-and-makers)
 - [📉 Failure stories](#-failure-stories)
@@ -479,8 +480,7 @@ These articles are useful for getting ideas and advice on key aspects of web des
 
 # 🛠 Tools used by bootstrapped founders
 
-- [Free for dev](https://github.com/ripienaar/free-for-dev)
-- [Bootstrapper/Entrepreneur Resources](https://www.notion.so/Bootstrapper-Entrepreneur-Resources-baf3125ae7f24723801291d1300beda4)
+- [Free for dev](https://github.com/ripienaar/free-for-dev): A collection of services for developers that offer a free plan.
 
 ### Analytics and Tracking
 
@@ -506,6 +506,7 @@ Getting feedback early on is crucial for your SaaS business. Here's a list of fe
 - [Kampsite](https://www.kampsite.co/): Get suggestions on new features. See what features your users would pay for. Discuss ideas with your customers. Share your roadmap. — free plan + 10$/mo after 15 suggestions.
 - [Tawk.to](https://www.tawk.to): Message customers directly on your website — free plan
 - [Crisp](https://crisp.chat/en/): Live chat + ticket handling software — free plan
+- [Intercom](https://www.intercom.com/): Most used live chat software for customer engagement & support — complex pricing
 
 ### Recurring Payment Platforms
 
@@ -522,6 +523,13 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 - [2checkout](https://go.2checkout.com/): smart subscription management suite — % fee
 - [Xero](https://www.xero.com/): Online accounting software for small businesses — starts at 20$/mo
 - [OpenNode](https://www.opennode.com/): accept Bitcoin payments (not recurring) — free plan
+
+### Miscellaneous Tools & Services
+
+- [Baremetrics](https://baremetrics.com): Revenue tracking service — starts at 50$/mo
+- [Wistia](https://wistia.com/): Display marketing videos on your website — free plan
+- [Notion](https://www.notion.so/): All-in-one workspace. Notes, checklists, timelines, etc.
+
 
 ### Complete Full-stack Boilerplates
 
