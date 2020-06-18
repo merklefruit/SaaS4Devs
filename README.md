@@ -543,7 +543,7 @@ When choosing an analytics tool, there are 2 core business models to evaluate: s
 - [Simple Analytics](https://simpleanalytics.com/): Like the name suggests, it's very simple. It has basic "page view" and "visitor" numbers, and that's it. You integrate it in 5 minutes in the <body> of your pages and you're done. — starts at 20$/mo
 - [UseFathom](https://usefathom.com/): Simple, light-weight, privacy focused. Tracks bounce rate and average time on site among other things. — starts at 14$/mo
 - [Clicky](https://clicky.com/): It shows how visitors interact with the site. You can see which pages they visit before signing up for a newsletter. Or how many days it takes for them to go from discovering the blog to buying a product. — free plan
-- [Splitbee](https://splitbee.io/): Analytics with A/B testing capabilities. — free plan
+- [Splitbee](https://splitbee.io/): Analytics with A/B testing capabilities. User explorer, funnel builder — free plan for up to 1000 monthly users.
 - [Plausible](https://plausible.io/): Simple, privacy compliant, great dashboard — 6$/mo
 - [Amplitude](https://amplitude.com/behavioral-analytics-platform): Behavioral Analytics platform. Comparable to Google Analytics and has a lot of features. — free plan
 - [Toasted Analytics](https://toastedanalytics.com): Simple. Tracks pageviews and events. Only 3kb tracker file. Has API access included. — starts at 3.5$/mo
