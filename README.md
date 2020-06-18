@@ -1,7 +1,7 @@
 <div align=center>
 <img width=900 src=media/saas4devs.png/>
 </div>
-> This document is a curation of useful **resources** & **advice** about the Software as a Service business, especially tailored for developers. Enjoy!
+This document is a curation of useful resources & advice about the Software as a Service business, especially tailored for developers. Enjoy!
 
 Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to receive updates about this project, [subscribe here](https://buttondown.email/saas4devs).*
 
