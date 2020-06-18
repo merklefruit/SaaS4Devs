@@ -601,7 +601,7 @@ Most SaaS have a lot of common boilerplate, like marketing pages, login/signup f
 - [Laravel Voyager](https://voyager.devdojo.com) — Laravel — free
 - [Wave](https://wave.devdojo.com) — Laravel — Built on top of Voyager — free
 - [Saas-base](https://github.com/CaravelKit/saas-base) — Flask + Vue — free
-- [SaasForge](https://www.saasforge.dev/) — Flask + React — 420$
+- [SaasForge](https://www.saasforge.dev/) — Flask + React — 239$
 - [SaaS Pegasus](https://www.saaspegasus.com/) — Django + React — 300$
 - [Turbovar](https://turbovar.com/turbovar/index.jsp) — Java + Bootstrap — 200$
 - [Grain Dashboard](https://graindashboard.com/) — HTML + Bootstrap (dashboard) — free
