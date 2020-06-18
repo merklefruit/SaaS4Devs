@@ -1,7 +1,7 @@
 <div align=center>
 <img width=900 src=media/saas4devs.png/>
 </div>
-This document is a collection of useful **resources, advice & more** about the Software as a Service business, especially tailored towards developers.
+> This document is a curation of useful **resources** & **advice** about the Software as a Service business, especially tailored for developers. Enjoy!
 
 Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to receive updates about this project, [subscribe here](https://buttondown.email/saas4devs).*
 
@@ -844,11 +844,11 @@ Email: [nicksmavic@gmail.com](mailto:nicksmavic@gmail.com)
 # 🗺 Roadmap
 
 - Add Slack groups of prolific SaaS communities
-- Add a Twitter List of micro-SaaS founders
-- Add Launch section
+- Add a Twitter List of micro-SaaS founders & makers
+- Update Launch section
 - Add What's Next section
 - Add a brief description to every book to motivate why I've chosen it
-- Add list of best newsletters to follow
+- Add list of the best SaaS Newsletters
 
 ---
 
