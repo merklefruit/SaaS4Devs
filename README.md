@@ -500,7 +500,7 @@ Price: 14 day free + 25$/mo
 - [Webflow:](http://webflow.com) advanced page builder with steep learning curve. Not recommended if you want fast iterations and testing.
 Pros: extremely good design if you master their building tools.
 Price: free trial + 12$/mo
-- [Unicorn Platform](http://unicornplatform.com):  free trial + 8$/mo
+- [Unicorn Platform](http://unicornplatform.com): simple landing page builder focused on SaaS. Free trial + 8$/mo.
 
 ### Landing page Templates
 
