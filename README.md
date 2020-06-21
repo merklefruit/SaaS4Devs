@@ -165,6 +165,19 @@ There's one approach which works very well with my mentees:
 
 > Do that for all the small groups you're part of, and you will find lots of ideas that aren't just "scratch-your-own-itch". They are 'scratch-an-itch-you-understand-and-know-how-to-remedy'.
 
+### "Scratch your own itch" is misleading (by [Kevin Conti](https://www.indiehackers.com/post/5-lessons-learned-from-launching-my-first-saas-ab047ddb0e))
+
+There's so much debate around whether or not it is a good idea to scratch your own itch. [CoderNotes.io](http://codernotes.io/) is definitely my itch. It's the product I wanted to see in the world. However, as business advice, I think that we need to look deeper.
+In reality, "scratch your own itch" has two different definitions, and they are heavily confused:
+
+1. Build something you want to exist (mistake!)
+2. Build something you've experienced as a legitimate gap in the market.
+
+I was listening to the [sales for founders podcast](https://podhunt.app/episodes/1416/zero-to-5-figure-mrr-in-just-a-few-months-by-doing-outbound-sales-with-frank-breckner-founder-of) episode with Frank Breckner, who took a product from zero to 5 figures in only five months! In the episode, Frank talks about how he saw that his company needed software like the one he wanted, he spoke to people in his network who were also having the same struggles around the problem, and went ahead and built it.
+
+That's very a different (and much better) version of "scratching your own itch".
+If you're thinking of making a "scratch your own itch" product, consider which of the two versions it is before making the decision to move forward.
+
 ### Change focus: Focus on finding Problems over Ideas (by [Tom Zaragoza](https://tomzaragoza.com/))
 
 By now you've probably understood that finding an idea is all about solving a problem. So why don't you start in reverse by looking for problems and go backwords?
@@ -289,6 +302,30 @@ Having established these relationships and demonstrated their value, who do you 
 
 In the author’s own experience, the answer was the latter; nearly everyone with whom he consulted went on to want to hire him.
 
+### Businesses that have to explain to users why they are valuable CAN be successful... but YOU shouldn't make one. (by [Kevin Conti](https://www.indiehackers.com/post/5-lessons-learned-from-launching-my-first-saas-ab047ddb0e))
+
+Imagine you are hungry, and decide that you are hungry for an apple. You know that you like apples, you've had apples before, and in particular you're a fan of crisp, red apples. Suddenly, someone comes up to you and offers you a banana.
+"Thanks," you say, "but I'm looking for an apple."
+"Actually," they respond, "a banana is much better for you! You'll be more full after eating this banana, my bananas taste better than apples, and in fact there are no other bananas quite like mine!"
+
+The banana salesman has spent time and energy into convincing you into the sale. But for all his effort, he was trying to pitch you a solution to your problem that didn't fit the solution you had in mind.
+
+When you have a product that customers don't already know, you will spend a lot of time selling it to them. Instead, if you can compete in a market where a customer is already **solution-aware** *("I want a red apple!")* you simply need to compete by being the best in one specific category they care about *(in this case, the crispness of the apple)*.
+
+Is it possible that the banana company will be successful? Yes, but they need to spend time convincing the apple-lovers that bananas are the way to go. That's going to take a lot of marketing, and they are **relying on a change in consumer behavior** to get that result. For a bootstrapped company, fighting that battle doesn't make sense.
+
+> Many startups compete in established market categories and do so successfully by first breaking up the market into smaller pieces and focusing on one piece they can win.
+> The goal of [this strategy] is to carve off a piece of the market where the rules are a little bit different - just enough to give your product an edge over the category leader.
+> – April Dunford, "Obviously Awesome"
+
+### Treat compliments as red flags, not validation!
+
+Compliments are warning signs. If you catch yourself or your teammates saying something like this, try to get specific. Why did that person like the idea? How much money would it save him? How would it fit into his life? What else has he tried? If you don't know, then you've got a compliment instead of real data.
+
+> Rule of thumb:  ***Compliments are the fool's gold of customer learning: shiny, distracting, and worthless***.
+>
+> – Rob Fitzpatrick, "The Mom Test"
+
 
 
 *Sources: [validating product ideas](https://training.kalzumeus.com/newsletters/archive/validating_product_ideas), [business idea validation](https://peterthaleikis.com/business-idea-validation/), [how to brainstorm business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c),[Company of one (book)](https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356)*
@@ -307,6 +344,28 @@ In the author’s own experience, the answer was the latter; nearly everyone wit
 ### When to build your MVP
 
 You shouldn't start coding a single line of your MVP until you have a CLEAR sales channel for your first 15-20 customers. This point is discussed in the Get an Idea section above, but it's too important so I'll repeat myself. You mustn't build your product and THEN find a sales channel, but quite the opposite.
+
+### The product is 1/3rd of the product (by [Kevin Conti](https://www.indiehackers.com/post/5-lessons-learned-from-launching-my-first-saas-ab047ddb0e))
+
+For my first product, I thought that the main thing I was building was... well... the product!
+Turns out, the actual *product* that you build is only a piece of the puzzle.
+A business isn't just a product. It's a system:
+
+- A business includes a set of inbound and outbound channels that help drive customers to the product.
+- A business includes positioning that defines what market it is a part of.
+- A business is the pricing, payment, and customer service model it follows throughout the customer life-cycle.
+- And finally, a business includes a product.
+
+I've learned that, instead of thinking of a business as a legal entity that collects money for a product, it's better to think of a business as a *set of puzzle pieces*, all of which need to function for the whole thing to work.
+Conceptually, I think you can break this up into three pieces:
+
+1. The business has a *defined market* where customers already exist.
+2. A business has *reliable channels* to reach customers in the above market.
+3. A business has a *product* that serves customers in that market.
+
+In other words, a product is only 1/3rd of the final "product".
+
+
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
