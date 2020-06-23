@@ -638,7 +638,8 @@ Getting feedback early on is crucial for your SaaS business. Here's a list of fe
 - [Kampsite](https://www.kampsite.co/): Get suggestions on new features. See what features your users would pay for. Discuss ideas with your customers. Share your roadmap. — free plan + 10$/mo after 15 suggestions.
 - [Tawk.to](https://www.tawk.to): Message customers directly on your website — free plan
 - [Crisp](https://crisp.chat/en/): Live chat + ticket handling software — free plan
-- [Intercom](https://www.intercom.com/): Most used live chat software for customer engagement & support — complex pricing
+- [Intercom](https://www.intercom.com/): The most popular live chat software for customer engagement & support — complex pricing
+- [Letterbase](https://letterbase.io): Simple Live chat for small businesses. Simple to use & privacy friendly — 9$/mo
 
 ### Recurring Payment Platforms
 
@@ -901,7 +902,8 @@ Did you think this document was long enough? Not even close. I’ve barely scrat
 - [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers): A curated collection of marketing articles & tools to grow your product.
 - [Unofficial Micro-Conf video directory](https://microconf-vault.webflow.io/?tags=launching): Videos sourced from MicroConf, finally free and gathered in one place.
 - [Growth.design](https://growth.design/psychology/): Great list of design psychology principles explained with practical examples.
-- [Free for dev](https://github.com/ripienaar/free-for-dev): A list of software (SaaS, PaaS, IaaS, etc.) that offer free tiers for developers.
+- : A list of software (SaaS, PaaS, IaaS, etc.) that offer free tiers for developers.
+- [Semicolon&Sons: Inside the Muse](https://www.semicolonandsons.com/series/Inside-The-Muse): A screencast series giving a behind-the-scenes tour of a profitable web-app, showing everything from code architecture to SEO strategies.
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
