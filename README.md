@@ -43,6 +43,7 @@ Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to r
 - [📉 Failure stories](#-failure-stories)
 - [📕 Books](#-books)
 - [🗞 Blogs & Communities](#-blogs--communities)
+- [🎥 Screencasts & Videos](#-screencasts--videos)
 - [🧱 Extra Material](#-extra-material)
 - [👀 Credits](#-credits)
 - [🎳 Contributions](#-contributions)
@@ -891,6 +892,10 @@ Keeping that in consideration, here are the best books for devs trying to make i
 - [All that SaaS](https://allthatsaas.com): A blog dedicated to everything about SaaS: Roundups, Product Reviews, Interviews, Tips, & Insights.
 
 ---
+
+# 🎥 Screencasts & Videos
+
+- [Semicolon&Sons: Inside the Muse](https://www.semicolonandsons.com/series/Inside-The-Muse): A screencast series giving a behind-the-scenes tour of a profitable web-app, showing everything from code architecture to SEO strategies.
 
 # 🧱 Extra Material
 
