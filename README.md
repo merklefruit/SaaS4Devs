@@ -555,7 +555,9 @@ There are many ways to publish your first product or MVP. Here are the best webs
 - BetaList
 - SaaS Hub
 
-    Note: This is not a complete strategy on how to publish your first product. You should take time to publish to each of these platforms but keep in mind that you'll get general traffic, not targeted to your niche. It's more effective to publish your MVP on forums and communities that you're a part of, and that are devoted to your niche.
+
+
+*Note: This isn't a complete strategy. You should take time to publish to each of these platforms but keep in mind that you'll get general traffic, not targeted to your niche. It's more effective to publish your MVP on forums and communities that you're a part of, and that are devoted to your niche.*
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
@@ -689,6 +691,7 @@ Most SaaS have a lot of common boilerplate, like marketing pages, login/signup f
 - [SaaS Pegasus](https://www.saaspegasus.com/) — Django + React — 300$
 - [Turbovar](https://turbovar.com/turbovar/index.jsp) — Java + Bootstrap — 200$
 - [Grain Dashboard](https://graindashboard.com/) — HTML + Bootstrap (dashboard) — free
+- [Magpie](https://www.armia.com/magpie.php) — M.E.A.N. Advanced "Framework" (full-stack platform) — free and Open Source
 
 ---
 
@@ -902,7 +905,7 @@ Did you think this document was long enough? Not even close. I’ve barely scrat
 - [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers): A curated collection of marketing articles & tools to grow your product.
 - [Unofficial Micro-Conf video directory](https://microconf-vault.webflow.io/?tags=launching): Videos sourced from MicroConf, finally free and gathered in one place.
 - [Growth.design](https://growth.design/psychology/): Great list of design psychology principles explained with practical examples.
-- : A list of software (SaaS, PaaS, IaaS, etc.) that offer free tiers for developers.
+- [Free for dev](https://free-for.dev/#/): A list of software (SaaS, PaaS, IaaS, etc.) that offer free tiers for developers.
 - [Semicolon&Sons: Inside the Muse](https://www.semicolonandsons.com/series/Inside-The-Muse): A screencast series giving a behind-the-scenes tour of a profitable web-app, showing everything from code architecture to SEO strategies.
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
