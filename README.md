@@ -937,12 +937,14 @@ Email: [nicksmavic@gmail.com](mailto:nicksmavic@gmail.com)
 - Add What's Next section
 - Add a brief description to every book to motivate why I've chosen it
 - Add list of the best SaaS Newsletters
+- Add list of best Podcasts for solo founders
+- Add Screencasts/Videos/Youtube channels relevant to SaaS
 
 ---
 
 # 🎉 Get Updates
 
-You can subscribe [here](https://buttondown.email/saas4devs) to get updates.
+You can [subscribe here](https://buttondown.email/saas4devs) to get updates.
 
 *I'll send you an email only once I've added new **major** sections. A lot more exciting stuff to come!*
 
