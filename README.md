@@ -1,9 +1,15 @@
 <div align=center>
 <img width=900 src=media/saas4devs.png/>
 </div>
-This document is a curation of useful resources & advice about the Software as a Service business, especially tailored for developers. Enjoy!
+ <div align=center><a href="https://github.com/nicolas-racchi/SaaS4Devs" alt="stars"><img src="https://img.shields.io/github/stars/nicolas-racchi/SaaS4Devs?label=Stars&logoColor=informational&style=social"></img></a>
+<a href="https://twitter.com/intent/tweet?text=If%20you%27re%20interested%20in%20SaaS,%20you%20should%20read%20this%20curation%20of%20awesome%20resources%20for%20Solo%20Founders%20by%20@NicolasRacchi&url=https://github.com/nicolas-racchi/SaaS4Devs"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FNicolasRacchi"></img></a>
+</div> 
 
-Created by [Nicolas Racchi](https://www.nicolasracchi.com/). *If you'd like to receive updates about this project, [subscribe here](https://buttondown.email/saas4devs).*
+> This document is a curation of useful resources & advice about the Software as a Service business, especially tailored for developers.
+
+Created by [Nicolas Racchi](https://www.nicolasracchi.com/)  <a href="https://twitter.com/intent/follow?screen_name=NicolasRacchi"><img src="https://img.shields.io/twitter/follow/NicolasRacchi?label=Follow%20on%20Twitter&style=social"></img></a> 
+
+*If you'd like to receive updates about this project, you can [subscribe here](https://buttondown.email/saas4devs).*
 
 **Don’t forget to leave a ⭐️ if you found this useful!**
 
