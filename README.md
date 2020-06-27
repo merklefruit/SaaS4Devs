@@ -576,6 +576,9 @@ A landing page is the minimum requirement for any online businesses. Don't under
 
 If you're a web developer you can probably spin up a decent-looking landing page in hours. Let's be honest though, everyone knows that you'd spend weeks fine-tuning every small detail of your landing page until it's perfect. This isn't compatible with the fast pace at which you'll be updating and changing content on your page based on feedback you get from users. You need to move fast, and you probably can't devote too much time in landing pages. This is why page builders *can* be a good idea for micro-SaaS. Here's a list of the best page builders for SaaS:
 
+- [Softr](https://www.softr.io/): "The easiest and fastest platform for founders to build responsive websites & web-apps".
+Pros: insanely easy & fast to use, uses building blocks (header, hero, cta, pricing, faq, etc) to assemble the website.
+Price: freemium + 29$/mo (discount codes available)
 - [Versoly](https://versoly.com/): "Conversion Focused Website Builder".
 Pros: optimized for SaaS, SEO editor, included form submissions and management, analytics tools.
 Price: free trial + 15$/mo
