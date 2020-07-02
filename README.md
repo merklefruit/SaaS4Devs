@@ -855,6 +855,8 @@ My product is most suitable for businesses where working hours are a key. It is 
 
 Keeping that in consideration, here are the best books for devs trying to make it in the SaaS world:
 
+- [Zero to Sold](https://thebootstrappedfounder.com/zero-to-sold/) by Arvid Kahl
+
 - [The Lean Startup](https://www.amazon.com/dp/0307887898?tag=lessolearn01-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=0307887898&adid=004DZWTQ0HQTRCNYZJPD) by Eric Ries
 - [The Founder's Dilemmas](https://www.amazon.com/Founders-Dilemmas-Anticipating-Foundation-Entrepreneurship-ebook/dp/B007AIXKUM/ref=pd_sbsd_14_5/141-3206498-2365463?_encoding=UTF8&pd_rd_i=B007AIXKUM&pd_rd_r=03615e7d-a326-47c1-b8d1-5922be927538&pd_rd_w=VhsPn&pd_rd_wg=QpTvG&pf_rd_p=2c2d0d3b-b3c5-4110-93fa-2c1270309ac1&pf_rd_r=A97Y90P2HHWWGYRR3VR9&psc=1&refRID=A97Y90P2HHWWGYRR3VR9) by Noam Wasserman
 - [Scaling Up](https://www.amazon.com/Founders-Dilemmas-Anticipating-Foundation-Entrepreneurship-ebook/dp/B007AIXKUM/ref=pd_sbsd_14_5/141-3206498-2365463?_encoding=UTF8&pd_rd_i=B007AIXKUM&pd_rd_r=03615e7d-a326-47c1-b8d1-5922be927538&pd_rd_w=VhsPn&pd_rd_wg=QpTvG&pf_rd_p=2c2d0d3b-b3c5-4110-93fa-2c1270309ac1&pf_rd_r=A97Y90P2HHWWGYRR3VR9&psc=1&refRID=A97Y90P2HHWWGYRR3VR9) by Verne Harnish
@@ -877,7 +879,6 @@ Keeping that in consideration, here are the best books for devs trying to make i
 - [When Coffee and Kale compete](https://www.amazon.com/When-Coffee-Kale-Compete-products/dp/1534873066/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1590565204&sr=1-1) by Alan Klement
 - [Running Lean](https://www.amazon.com/Running-Lean-Iterate-Plan-Works-dp-1449305172/dp/1449305172/ref=mt_hardcover?_encoding=UTF8&me=&qid=1590565249) by Ash Maurya
 - [MAKE book](https://makebook.io/) by Pieter Levels
-- [Zero to Sold](https://thebootstrappedfounder.com/zero-to-sold/) by Arvid Kahl
 - [Getting Real](https://basecamp.com/gettingreal) by Basecamp.com
 - [The power of Habit](https://www.amazon.com/The-Power-of-Habit-Charles-Duhigg-audiobook/dp/B007EJSMC8/ref=sr_1_1?dchild=1&keywords=the+power+of+habit&qid=1590686292&sr=8-1) by Charles Duhigg
 - [Deep Work](https://www.amazon.com/Deep-Work-Cal-Newport-audiobook/dp/B0189PVAWY/ref=sr_1_1?dchild=1&keywords=deep+work&qid=1590686336&s=audible&sr=1-1) by Cal Newport
