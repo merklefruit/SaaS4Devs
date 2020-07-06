@@ -609,6 +609,7 @@ These websites are endless wells of examples from which to take inspiration when
 - [SaasPages](https://saaspages.xyz/): popular landing pages divided into sections or "blocks" like navbar, pricing, faq, etc. Also contains useful advice & tips about copywriting and design for specific sections. Made by the creator of Versoly.
 - [LandingFolio](https://www.landingfolio.com/inspiration/landing-page/saas): landing page designs from across the web. Included color palettes and filter for desktop or mobile.
 - [SaasFrame](https://www.saasframe.io/): not just landing page examples. Email flows, marketing pages, product page design, blog post examples & more — 9$/mo
+- [SaaSLandingPage](https://saaslandingpage.com/): Discover the best 440 landing page examples and get inspiration for your next project.
 - [Lander](https://uselander.xyz/): Landing page copywriting template for SaaS
 
 ### Explained examples with advice
@@ -616,6 +617,7 @@ These websites are endless wells of examples from which to take inspiration when
 These articles are useful for getting ideas and advice on key aspects of web design optimized for conversion:
 
 - [33 examples of highly effective SaaS website designs](https://webflow.com/blog/saas-website-design-examples) by Tomas Laurinavicius
+- [What we learned analyzing 40+ top SaaS landing pages](https://blog.chartmogul.com/saas-landing-pages/) by Ed Shelley
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
