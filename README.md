@@ -598,7 +598,8 @@ Price: free trial + 12$/mo
 
 This is another good option to enforce good design and best practices on your landing page. These themes are specifically suited for SaaS. You can also simply use them as examples for inspiration.
 
-- [Themesberg Rocket](https://demo.themesberg.com/rocket/) - 69$
+- [Themesberg Rocket](https://demo.themesberg.com/rocket/) — 69$
+- [Inovatik](https://inovatik.com): SaaS landing page templates built with HTML — free
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
