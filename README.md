@@ -212,6 +212,17 @@ Luckily, since you've already met your customers and talked with them, you shoul
 
 This is the kind of advantage you can only get if you've identified a customer and their problems before you started on the solution. Otherwise you'll build something generic.
 
+### Your Idea doesn't have to be earth-shattering (by [Pieter Levels](https://levels.io/))
+
+*Short excerpt from Pieter's book "MAKE book", explaining why you should start small and not focus on your long-term vision. You can find and buy his book [here](https://makebook.io/).*
+
+> [...] Your first idea does not have to be (and probably should not be) earth-shattering.
+> You start with something small. Don't think too big. Then slowly, you can get the big part by extrapolating, scaling your idea to a bigger market, from a niche market, and to a bigger more abstract idea (just like Uber went from a taxi hailing service to an autonomous car vision).
+
+> [...] You don't know what you're going to end up with. That's another point. You need constant feedback from your users in the market to see what people want and what people use and whatnot. You can't just think of that. You can't think big immediatly: you have to start small.
+
+
+
 *Sources: [good micro-saas-ideas](https://tylertringas.com/good-micro-saas-ideas/), [makebook#2](https://makebook.io/#2), [meat-grinder approach](https://tylertringas.com/business-ideas-meat-grinder/), [AskHN: looking for ideas](https://news.ycombinator.com/item?id=23290536), [find saas ideas](https://tomzaragoza.com/how-to-find-saas-ideas), [nugget](https://nugget.one/ideas), [first principles](https://fs.blog/2018/04/first-principles/)*
 
 <div align=center>
