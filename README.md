@@ -711,6 +711,23 @@ Most SaaS have a lot of common boilerplate, like marketing pages, login/signup f
 
 Here's a short list of some Micro-SaaS companies bootstrapped and run by a single person:
 
+### Reflecting on 2 years Bootstrapping (by [Pierre de Wulf](https://twitter.com/PierreDeWulf))
+
+In July 2018 I quit my job and tried to build a profitable SaaS with a friend of mine. And we failed, hard. $600 MRR after 1 year.
+
+We tried again and had a bit more luck: $7,8k MRR within 1 year. Here's what I wish I knew when I began:
+
+1. This thing takes time: Bootstrapping a SaaS is long. Most of the time, when you look behind you'll find: years of building an audience, several failed attempts and consistency. 
+2. If you need 30 emails to sell a 30$/month product, the problem isn't in your emails. If you're in this situation you should ask yourself: can you increase your price? Is your audience the right one? Is your product the right one?
+3. Talk to your users early: One easy way to do it is by offering 10x what your free plan offers to people willing to spend 15 minutes on the phone with you. You'll get feedback from people who really want to use your product. We did it and it had amazing results.
+4. For every customer giving your feedback, assume that 10 others felt the same way but didn't care enough to tell you. "3" is a number I like. We start thinking about implementing a feature every time 3 users ask for the same or similar thing.
+5. If you can't have feedback, look out for clues. There are clues that you're doing something right. For example: people are angry when your product doesn't wok, people say that your product is too expensive but pay anyway. There are also clues that you're doing something wrong. For example: you had a 3 days down-time and nobody bat an eye, you have less than 1% conversion rate on your landing page, people love to talk with you but never pay you.
+6. When starting, focus on what matters, don't waste your time on futile things. For us, this meant to stop focusing on the product name, logo, domain name, or the color of a button. And start focusing on a clean landing page, better copywriting, getting feedback from users.
+7. Once you've found an acquisition channel that works, go all-in. You should really try to master one sales channel before choosing another one. Stick with what works in the beginning.
+8. Offer top-notch support: It's surprisingly easy to out-do your competition's support. You must reply to all emails in less than 30 minutes, have an in-app chat, be friendly, etc. Does it scale? No. Will you lose a bit of focus? Yes. But in my opinion, it's worth it. Many people were delighted about how fast we answered support tickets, even if we didn't solve the problem right away.
+9. Rate limit your payment endpoints. This is to prevent hackers trying out stolen credit cards in bulk.
+10. Apply to those new bootstrapper-friendly funds. These work differently from venture capitalists and in many ways they can be beneficial without the stress.
+
 ### Jason Kester of [S3Stats](https://www.s3stat.com) and [Twiddla](https://www.twiddla.com/)
 
 "I run S3stat and Twiddla by myself and they combine to bring in a nice living.
