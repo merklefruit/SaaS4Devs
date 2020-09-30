@@ -704,6 +704,7 @@ Most SaaS have a lot of common boilerplate, like marketing pages, login/signup f
 - [Jabloon](https://www.getsjabloon.com) — Ruby on Rails — 79$
 - [Jumpstart](https://jumpstartrails.com/) — Ruby on Rails + TailwindCSS — 150$
 - [Gravity](https://usegravity.app/) — NodeJS + React — 600$
+- [Divjoy](https://divjoy.com/) — NodeJS + React — 99$
 - [Nodewood](https://nodewood.com/) — NodeJS + Vue — 300$
 - [NodeX](https://nodex.wensia.com) — NodeJS + Vue — 100$
 - [Laravel Spark](https://spark.laravel.com/) — Laravel + Bootstrap — 100$
