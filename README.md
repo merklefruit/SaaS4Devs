@@ -665,7 +665,7 @@ Getting feedback early on is crucial for your SaaS business. Here's a list of fe
 - [Crisp](https://crisp.chat/en/): Live chat + ticket handling software — free plan
 - [Intercom](https://www.intercom.com/): The most popular live chat software for customer engagement & support — complex pricing
 - [Letterbase](https://letterbase.io): Simple Live chat for small businesses. Simple to use & privacy friendly — 9$/mo
-- [Beamdock](https://beamdock.com/): Beamdock helps you gather features requests, schedule interview session and notify customers easily.
+- [Beamdock](https://beamdock.com/): Beamdock helps you gather features requests, schedule interview session and notify customers easily - free plan.
 
 ### Recurring Payment Platforms
 
