@@ -653,6 +653,7 @@ When choosing an analytics tool, there are 2 core business models to evaluate: s
 - [Plausible](https://plausible.io/): Simple, privacy compliant, great dashboard — 6$/mo
 - [Amplitude](https://amplitude.com/behavioral-analytics-platform): Behavioral Analytics platform. Comparable to Google Analytics and has a lot of features. — free plan
 - [Toasted Analytics](https://toastedanalytics.com): Simple. Tracks pageviews and events. Only 3kb tracker file. Has API access included. — starts at 3.5$/mo
+- [Panelbear](https://panelbear.com): Powerful, privacy-friendly analytics to grow your website. — free plan
 
 ### Feedback collection and Feature requests
 
