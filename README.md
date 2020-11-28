@@ -954,6 +954,7 @@ Did you think this document was long enough? Not even close. I’ve barely scrat
 - [Growth.design](https://growth.design/psychology/): Great list of design psychology principles explained with practical examples.
 - [Free for dev](https://free-for.dev/#/): A list of software (SaaS, PaaS, IaaS, etc.) that offer free tiers for developers.
 - [Semicolon&Sons: Inside the Muse](https://www.semicolonandsons.com/series/Inside-The-Muse): A screencast series giving a behind-the-scenes tour of a profitable web-app, showing everything from code architecture to SEO strategies.
+- [SellYourSaaS](https://www.sellyoursaas.org): An Open-Source platform for end-to-end distribution of a SaaS company. From creation to invoicing to management, this project is an 8 years long effort, that just became open source.
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
