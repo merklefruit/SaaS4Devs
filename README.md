@@ -12,8 +12,9 @@ Created by [Nicolas Racchi](https://www.nicolasracchi.com/)  <a href="https://tw
 
 **Don’t forget to leave a ⭐️ if you found this useful!**
 
-## Big News! You can now read SaaS4Devs online at https://saas4devs.tech 😁
-Feel free to use this page for issues and PRs. The content of the web version is the same as this page.
+<a href="https://saas4devs.tech"><div align="center"><img width=900 src=media/now_online.png alt="now online"/></div></a>
+
+## Big News! You can now read SaaS4Devs online at https://saas4devs.tech 😁✌️
 
 ---
 
