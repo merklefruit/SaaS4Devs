@@ -151,7 +151,7 @@ Solving your own problem is also nice because you can better understand what fea
 > "How well do I need to know a problem to make something for it? How much can I learn along the way?"
 Short answer: a lot. At some point, don't follow yourself anymore, and start using customer feedback as input.
 
-Imagine a scenario where you build your idea and your company grows, and you stop becoming the taget audience. You face the risk of not understanding the customer anymore.
+Imagine a scenario where you build your idea and your company grows, and you stop becoming the target audience. You face the risk of not understanding the customer anymore.
 
 *Example: Rappers who start out in the ghetto and become world stars, then loose the inspiration to write since they're living in big mansions and aren't a part of their audience.*
 
