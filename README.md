@@ -671,6 +671,7 @@ Getting feedback early on is crucial for your SaaS business. Here's a list of fe
 - [Intercom](https://www.intercom.com/): The most popular live chat software for customer engagement & support — complex pricing
 - [Letterbase](https://letterbase.io): Simple Live chat for small businesses. Simple to use & privacy friendly — 9$/mo
 - [Beamdock](https://beamdock.com/): Beamdock helps you gather features requests, schedule interview session and notify customers easily - free plan.
+- [Customerly](https://www.customerly.io/): Live Chat & Marketing automation - free plan
 
 ### Recurring Payment Platforms
 
