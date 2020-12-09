@@ -14,7 +14,7 @@ Created by [Nicolas Racchi](https://www.nicolasracchi.com/)  <a href="https://tw
 
 
 
-## Big News! You can now read SaaS4Devs online at [https://saas4devs.tech](https://saas4devs.tech?rel=github) 😁
+## Big News! You can now read SaaS4Devs online at [https://saas4devs.tech](https://saas4devs.tech?ref=github) 😁
 
 ---
 
