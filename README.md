@@ -673,6 +673,7 @@ Getting feedback early on is crucial for your SaaS business. Here's a list of fe
 - [Beamdock](https://beamdock.com/): Beamdock helps you gather features requests, schedule interview session and notify customers easily - free plan.
 - [Customerly](https://www.customerly.io/): Live Chat & Marketing automation - free plan
 - [Upvoty](https://www.upvoty.com): Instant feedback, changelog & dashboard - starts at 15$/mo
+- [Noora](https://noorahq.com): centralized product feedback solution to collect and act on feedback from customers — starts at 9$/mo
 
 ### Recurring Payment Platforms
 
