@@ -725,6 +725,7 @@ Most SaaS have a lot of common boilerplate, like marketing pages, login/signup f
 - [Turbovar](https://turbovar.com/turbovar/index.jsp) — Java + Bootstrap — 200$
 - [Grain Dashboard](https://graindashboard.com/) — HTML + Bootstrap (dashboard) — free
 - [Magpie](https://www.armia.com/magpie.php) — M.E.A.N. Advanced "Framework" (full-stack platform) — free and Open Source
+- [Serverless Page](https://serverless.page) — React + Serverless — 200$
 
 ---
 
