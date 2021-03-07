@@ -727,6 +727,7 @@ Most SaaS have a lot of common boilerplate, like marketing pages, login/signup f
 - [Magpie](https://www.armia.com/magpie.php) — M.E.A.N. Advanced "Framework" (full-stack platform) — free and Open Source
 - [Serverless Page](https://serverless.page) — React + Serverless — 200$
 - [Bookstack](https://boostack.io) — NodeJS + Vue — 500$
+- [useRocket](https://userocket.herokuapp.com) — NodeJS + React — 160$
 
 ---
 
