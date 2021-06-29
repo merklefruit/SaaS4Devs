@@ -696,7 +696,7 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 
 - [Baremetrics](https://baremetrics.com): Revenue tracking service — starts at 50$/mo
 - [ChartMogul](https://chartmogul.com): Subscription analytics, revenue recognition — free plan
-
+- [LoginRadius](https://www.loginradius.com): User Authentication Solution — free plan
 - [Wistia](https://wistia.com/): Display marketing videos on your website — free plan
 - [Notion](https://www.notion.so/): All-in-one workspace. Notes, checklists, timelines, etc. — free plan
 - [Quaderno](https://quaderno.io): Simple Worldwide Sales Tax Reporting, handles invoices & VAT — starts at 50$/mo
