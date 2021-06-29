@@ -615,6 +615,7 @@ This is another good option to enforce good design and best practices on your la
 
 - [Themesberg Rocket](https://demo.themesberg.com/rocket/) — 69$
 - [Inovatik](https://inovatik.com): SaaS landing page templates built with HTML — free
+- [Creative Designs Guru](https://creativedesignsguru.com): React and Next JS templates for SaaS — 29$
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
