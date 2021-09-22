@@ -730,6 +730,7 @@ Most SaaS have a lot of common boilerplate, like marketing pages, login/signup f
 - [Serverless Page](https://serverless.page) — React + Serverless — 200$
 - [Bookstack](https://boostack.io) — NodeJS + Vue — 500$
 - [useRocket](https://userocket.herokuapp.com) — NodeJS + React — 160$
+- [Nextless JS](https://nextlessjs.com) — React + NodeJS with Serverless — 499$
 
 ---
 
