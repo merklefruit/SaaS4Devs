@@ -665,6 +665,7 @@ When choosing an analytics tool, there are 2 core business models to evaluate: s
 Getting feedback early on is crucial for your SaaS business. Here's a list of feedback collection tools.
 
 - [Canny](https://canny.io/): Collect feedback from customers and see a list of most wanted features ranked by upvotes. — starts at 50$/mo
+- [ClearFlask](https://clearflask.com/): Open-source community-feedback tool to manage incoming feedback and show off a public development roadmap. — free self-host, cloud hosting starts at 10$/mo
 - [Acute](https://getacute.io/): Gain actionable insight from feedback with an embedded widget. Good integrations with other services. — free plan + 25$/mo after 20 suggestions.
  - [Hellonext.co](https://hellonext.co/): All-in-one customer feedback management software with product roadmap & changelog - starts at 12$/mo
 - [Kampsite](https://www.kampsite.co/): Get suggestions on new features. See what features your users would pay for. Discuss ideas with your customers. Share your roadmap. — free plan + 10$/mo after 15 suggestions.
