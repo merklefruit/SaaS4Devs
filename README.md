@@ -163,7 +163,7 @@ Imagine a scenario where you build your idea and your company grows, and you sto
 4. Have a target audience. If your product could be used by anybody it propably will be used by nobody. You must know your small target niche so it'll be much easier to focus on the features that matter for them.
 5. You should be able to build it in a week, not in 6 months. You need to iterate fast and if you fail after 6 months of coding you probably won't ever try a SaaS business again.
 
-### Scrath-an-itch-you-understand (by [Arvid Kahl](https://www.arvidkahl.de/))
+### Scratch-an-itch-you-understand (by [Arvid Kahl](https://www.arvidkahl.de/))
 
 > The best products happen at the intersection of an existing niche you are a part of *already,* and a technology that has not yet been adopted *in that niche*.
 
