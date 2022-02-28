@@ -836,9 +836,9 @@ We received our first paid client in September, 2015 and have been steadily grow
 
 "I was unhappy in my corporate job despite being 'at the top' as a Technical Director. I discovered Micro SaaS when I was looking for a side project to get me back into programming again.
 
-I started building small chrome extensions for a micro niche (Merch Wizard & KDP Wizard) which I eventually doubled spending all my spare time on them and after scaling them up I was able to quit my unfulfilling day job. I've never looked back and really enjoy the freedoms that you get as a Micro SaaS founder. I can't every imagine going back to cubicle nation!
+I started building small chrome extensions for a micro niche (Merch Wizard & KDP Wizard) which I eventually doubled down on and spent all my spare time on them and after scaling them up I was able to quit my unfulfilling day job. I've never looked back and love the freedom that you get as a Micro SaaS founder. I can't every imagine going back to cubicle nation!
 
-Recently, I exited and sold my apps for a life changing amount of money and I'm now passionate about helping other software developers realize they can leverage their existing skillset to start a side hustle or even quit their job. I've started a blog and written out my thoughts in a 12 chapter free eBook, the Micro SaaS Handbook.
+Recently, I exited and sold my apps for a life changing amount of money and I'm now passionate about helping other software developers realize they can leverage their existing skillset to start a side hustle or even quit their job. So, I've started a blog and have written a 12 chapter free eBook called the Micro SaaS Handbook.
 
 My advice is to simply take baby steps to get started and get some early momentum, build something to fix a small problem that you or someone you know is facing. Start small, embrace failure, fail fast and fail forward. You never know where it might lead!"
 
