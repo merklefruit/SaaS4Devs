@@ -832,6 +832,16 @@ By following these principles, you know that at each step of the way, you're bui
 
 We received our first paid client in September, 2015 and have been steadily growing since then without any external investment and with a small team of seven people. This month, Everhour crossed the $1.4M ARR mark".
 
+### Rick Blyth of [RickBlyth.com](https://rickblyth.com/)
+
+"I was unhappy in my corporate job despite being 'at the top' as a Technical Director. I discovered Micro SaaS when I was looking for a side project to get me back into programming again.
+
+I started building small chrome extensions for a micro niche (Merch Wizard & KDP Wizard) which I eventually doubled spending all my spare time on them and after scaling them up I was able to quit my unfulfilling day job. I've never looked back and really enjoy the freedoms that you get as a Micro SaaS founder. I can't every imagine going back to cubicle nation!
+
+Recently, I exited and sold my apps for a life changing amount of money and I'm now passionate about helping other software developers realize they can leverage their existing skillset to start a side hustle or even quit their job. I've started a blog and written out my thoughts in a 12 chapter free eBook, the Micro SaaS Handbook.
+
+My advice is to simply take baby steps to get started and get some early momentum, build something to fix a small problem that you or someone you know is facing. Start small, embrace failure, fail fast and fail forward. You never know where it might lead!"
+
 ---
 
 - **Are you a bootstrapped founder yourself? Please tell me (see Contributions) so I can add you so your story can benefit others.**
@@ -935,6 +945,7 @@ Keeping that in consideration, here are the best books for devs trying to make i
 - [Badass: making users awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?dchild=1&keywords=badass+making+users+awesome&qid=1590686375&s=audible&sr=8-1) by Kathy Sierra
 - [On Writing Well](https://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction-ebook/dp/B0090RVGW0/ref=sr_1_1?dchild=1&keywords=on+writing+well&qid=1590686395&sr=8-1) by William Zinsser
 - [Value SaaS basecamp guide](https://www.amazon.com/Value-SaaS-Basecamp-Guide-founders-ebook/dp/B07WD57WVF/ref=sr_1_1?dchild=1&keywords=value+saas+bootcamp&qid=1590686417&sr=8-1) by Thiyagarajan M
+- [Micro SaaS Handbook](https://rickblyth.com/micro-saas) by Rick Blyth
 
 ---
 
@@ -952,6 +963,7 @@ Keeping that in consideration, here are the best books for devs trying to make i
 - [For Entrepreneurs](https://www.forentrepreneurs.com/saas/): Incredibly useful articles about SaaS & business. The [0-to-100](https://www.forentrepreneurs.com/zero-to-100/) article is a must read.
 - [The SaaS CFO](https://www.thesaascfo.com): One of the best blogs for SaaS metrics and forecasting.
 - [All that SaaS](https://allthatsaas.com): A blog dedicated to everything about SaaS: Roundups, Product Reviews, Interviews, Tips, & Insights.
+- [Rick Blyth](https://rickblyth.com): Advice and tips on getting started with Micro SaaS, Passive Income, Quit Your Job, Chrome Extensions and more.
 
 ---
 
