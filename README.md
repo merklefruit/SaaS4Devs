@@ -586,6 +586,7 @@ These websites are endless wells of examples from which to take inspiration when
 - [SaasFrame](https://www.saasframe.io/): not just landing page examples. Email flows, marketing pages, product page design, blog post examples & more — 9$/mo
 - [SaaSLandingPage](https://saaslandingpage.com/): Discover the best 440 landing page examples and get inspiration for your next project.
 - [Lander](https://uselander.xyz/): Landing page copywriting template for SaaS
+- [Landings](https://landings.dev/): Find the best landing pages for your design inspiration based on your preference
 
 ### Explained examples with advice
 
