@@ -123,7 +123,19 @@ The process goes like this. You see a problem. You quickly sketch the outline of
 Here are some example questions that you should use:
 
 - Are people currently paying for this service? If not, ditch it.
-- How will I get the first 25 customers? You must have a clear and easy path in mind.
+- How will I get the first 25 customers? You must have a clear and easy path in mind. 
+- Here's an actionable steps on how you can get the first 500 users for your SaaS startup for free:
+
+1. Create a free job posting on Linkedin
+2. Make it explicit: ‘volunteer role, no pay'
+3. Recruit beta-test volunteers for your startup
+4. Redirect them to Google form and collect emails
+5. Set up a Zapier automation to send emails to applicants, inviting them to test the web app.
+
+P.s. 
+
+Repeat step 1 every 6 hours. Linkedin free job posting caps out at 150 views (the algo de-ranks after that)
+Source: [https://www.spaceleads.pro/post/how-to-get-500-users-for-your-product-saas-for-free]
 - If it works, will it be sustainable? For example, can your competitor copy your main feature in a week? If so, you'd be basically giving him free R&D.
 - Am I the person to build this business? Think of what your day-to-day life would be if you started that company with that idea. Do you like it?
 
