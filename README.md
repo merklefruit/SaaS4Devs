@@ -673,6 +673,7 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 - [LoginRadius](https://www.loginradius.com): User Authentication Solution — free plan
 - [Wistia](https://wistia.com/): Display marketing videos on your website — free plan
 - [Notion](https://www.notion.so/): All-in-one workspace. Notes, checklists, timelines, etc. — free plan
+- [Cobalt Studio SaaS Launch Checklist Generator](https://techchenko.github.io/cobaltstudio-products/tools/saas-launch-checklist/): No-signup SaaS launch checklist generator for indie founders. — free
 - [Quaderno](https://quaderno.io): Simple Worldwide Sales Tax Reporting, handles invoices & VAT — starts at 50$/mo
 - [HelpHero](https://helphero.co): No-code intuitive user onboarding tours — starts at 25$/mo
 - [GetTerms](https://getterms.io): A simple privacy policy generator for businesses — free plan
