@@ -665,6 +665,7 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 - [Xero](https://www.xero.com/): Online accounting software for small businesses — starts at 20$/mo
 - [OpenNode](https://www.opennode.com/): accept Bitcoin payments (not recurring) — free plan
 - [CoinRemitter](https://coinRemitter.com/): accept Bitcoin & altcoin payments (not recurring) - 0.23% fee
+- [x402](https://github.com/xpaysh/awesome-x402): accept pay-per-call USDC payments via HTTP 402 for API monetization — no subscription needed, users pay per request
 
 ### Miscellaneous Tools & Services
 
