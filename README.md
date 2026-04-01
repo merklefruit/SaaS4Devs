@@ -704,6 +704,7 @@ Most SaaS have a lot of common boilerplate, like marketing pages, login/signup f
 - [Grain Dashboard](https://graindashboard.com/) — HTML + Bootstrap (dashboard) — free
 - [Magpie](https://www.armia.com/magpie.php) — M.E.A.N. Advanced "Framework" (full-stack platform) — free and Open Source
 - [Serverless Page](https://serverless.page) — React + Serverless — 200$
+- [TheFrontKit](https://thefrontkit.com) — Next.js + Tailwind CSS + shadcn/ui — Production-ready SaaS template with auth, dashboard, data tables, and WCAG AA accessibility. Also offers CRM, e-commerce, HR, and project management dashboard kits. — 79$
 - [Bookstack](https://boostack.io) — NodeJS + Vue — 500$
 - [useRocket](https://userocket.herokuapp.com) — NodeJS + React — 160$
 - [Nextless JS](https://nextlessjs.com) — React + NodeJS with Serverless — 499$
