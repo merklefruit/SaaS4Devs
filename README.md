@@ -679,6 +679,7 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 - [GetTerms](https://getterms.io): A simple privacy policy generator for businesses — free plan
 - [ShipLegal](https://ship-legal.vercel.app): Generate privacy policies, terms of service & cookie policies for SaaS products. AI/LLM clauses, GDPR/CCPA — free plan
 - [Growf AI](https://www.growf.io/) - AI-powered marketing consultant that helps you research your audience, create campaigns, content and ads - free trial, starts at 199€/mo.
+- [AuditZap](https://auditzap.io/) - AI-powered website audit tool that runs 24 checks across SEO, performance, and site health with code-level fix instructions — free plan, starts at $29/mo.
 
 
 ### Complete Full-stack Boilerplates
