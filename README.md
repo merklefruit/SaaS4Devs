@@ -983,6 +983,7 @@ NOTE: This repo is no longer being maintained, but here are some useful areas to
 - Add list of the best SaaS Newsletters
 - Add list of best Podcasts for solo founders
 - Add Screencasts/Videos/Youtube channels relevant to SaaS
+- [WebCoreLab](https://webcorelab.com) — AI SEO + GEO/AEO optimization for SaaS. Tracks AI citation rate (ChatGPT, Claude, Perplexity), 272-check technical audit, CRO.
 
 # 📢 Disclaimer
 
