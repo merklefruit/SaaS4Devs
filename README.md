@@ -987,3 +987,4 @@ NOTE: This repo is no longer being maintained, but here are some useful areas to
 # 📢 Disclaimer
 
 This document doesn't contain any paid promotion, sponsorship, referral, tracking/affiliate link or anything of that kind. It's just a collection of resources that I've amassed over time.
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 free AI tools with one-time crypto payment, no subscriptions.
