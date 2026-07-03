@@ -671,6 +671,7 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 
 - [Baremetrics](https://baremetrics.com): Revenue tracking service — starts at 50$/mo
 - [ChartMogul](https://chartmogul.com): Subscription analytics, revenue recognition — free plan
+- [GetAppNiche](https://getappniche.com/): iOS App Store market intelligence for founders researching revenue estimates, ASO keywords, competitor ads, reviews, and niches. — freemium
 - [LoginRadius](https://www.loginradius.com): User Authentication Solution — free plan
 - [Wistia](https://wistia.com/): Display marketing videos on your website — free plan
 - [Notion](https://www.notion.so/): All-in-one workspace. Notes, checklists, timelines, etc. — free plan
