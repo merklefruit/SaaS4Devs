@@ -688,6 +688,7 @@ As a developer, it's your choice to choose to either develop from scratch or use
 Most SaaS have a lot of common boilerplate, like marketing pages, login/signup flow, protected routes, dashboard, admin area, CRUD services, and more.
 
 - [Bullet train](https://bullettrain.co/) — Ruby on Rails — 1500$
+- [CreditKit](https://youngalgy.com/creditkit) — Next.js + Supabase + Stripe — 129$
 - [Jabloon](https://www.getsjabloon.com) — Ruby on Rails — 79$
 - [Jumpstart](https://jumpstartrails.com/) — Ruby on Rails + TailwindCSS — 150$
 - [Gravity](https://usegravity.app/) — NodeJS + React — 600$
