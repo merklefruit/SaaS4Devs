@@ -658,6 +658,7 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 
 - [Stripe](http://www.stripe.com): the Ferrari of online payment platforms. Requires some work to set up — free plan
 - [Paddle](https://paddle.com/): also handles VAT for European countries — % fee
+- [AgentaOS](https://agentaos.ai/): merchant of record that handles VAT and sales tax and pays out in 85+ countries — % fee
 - [Chargebee](https://www.chargebee.com/): revenue operation for SaaS — free plan
 - [Billsby](https://www.billsby.com/): easy and accurate billing — free plan
 - [Superpayit](https://superpayit.com/): built on top of Stripe to be easier to use. — % fee
