@@ -648,6 +648,7 @@ Getting feedback early on is crucial for your SaaS business. Here's a list of fe
 - [Upvoty](https://www.upvoty.com): Instant feedback, changelog & dashboard - starts at 15$/mo
 - [Noora](https://noorahq.com): centralized product feedback solution to collect and act on feedback from customers — starts at 9$/mo
 - [Loopliz](https://loopliz.com): Product voting, feedback, bug reporting, and roadmaps - starts at 12$/mo
+- [Pulse](https://pulsecorp.co): AI-moderated market research platform that runs customer interviews at scale — free trial
 
 ### Recurring Payment Platforms
 
