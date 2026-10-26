@@ -648,6 +648,7 @@ Getting feedback early on is crucial for your SaaS business. Here's a list of fe
 - [Upvoty](https://www.upvoty.com): Instant feedback, changelog & dashboard - starts at 15$/mo
 - [Noora](https://noorahq.com): centralized product feedback solution to collect and act on feedback from customers — starts at 9$/mo
 - [Loopliz](https://loopliz.com): Product voting, feedback, bug reporting, and roadmaps - starts at 12$/mo
+- [WishKit](https://www.wishkit.io): In-app feature request board for iOS and web apps. Users submit and vote on features - free plan for 1 project, shows the first 5 requests, paid starts at 12.50$/mo
 
 ### Recurring Payment Platforms
 
