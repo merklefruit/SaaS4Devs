@@ -679,6 +679,7 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 - [GetTerms](https://getterms.io): A simple privacy policy generator for businesses — free plan
 - [ShipLegal](https://ship-legal.vercel.app): Generate privacy policies, terms of service & cookie policies for SaaS products. AI/LLM clauses, GDPR/CCPA — free plan
 - [Growf AI](https://www.growf.io/) - AI-powered marketing consultant that helps you research your audience, create campaigns, content and ads - free trial, starts at 199€/mo.
+- [GetPaidAtlas](https://getpaidatlas.com/) - Free, independent database of which payment platforms (Stripe, Paddle, Lemon Squeezy, Polar, Gumroad, PayPal, Wise and more) support sellers in 250 countries and territories, with a source link for every status. Not a payment provider - free.
 
 
 ### Complete Full-stack Boilerplates
