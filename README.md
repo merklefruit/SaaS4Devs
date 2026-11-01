@@ -946,6 +946,7 @@ Did you think this document was long enough? Not even close. I’ve barely scrat
 - [Design Resources for Devs](https://github.com/bradtraversy/design-resources-for-developers): List of design resources, including stock photos, UIs, templates & more.
 - [Nodesign](https://nodesign.dev): A collection of tools for developers who have little artistic talent.
 - [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers): A curated collection of marketing articles & tools to grow your product.
+- [Where to Promote Your Startup](https://mediapronet.com/where-to-promote-your-startup): A filterable list of places to launch and list a new product, with cost and link type for each one.
 - [Unofficial Micro-Conf video directory](https://microconf-vault.webflow.io/?tags=launching): Videos sourced from MicroConf, finally free and gathered in one place.
 - [Growth.design](https://growth.design/psychology/): Great list of design psychology principles explained with practical examples.
 - [Free for dev](https://free-for.dev/#/): A list of software (SaaS, PaaS, IaaS, etc.) that offer free tiers for developers.
