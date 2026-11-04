@@ -657,6 +657,7 @@ Many developers choose a ready-made solution to handle payments because there ar
 Most of these tools offer great free plans (up to 50k$ processed for free).
 
 - [Stripe](http://www.stripe.com): the Ferrari of online payment platforms. Requires some work to set up — free plan
+- [Invoicycle](https://invoicycle.com/): Free online invoicing and recurring billing software with automated payment tracking and client billing portals — free plan
 - [Paddle](https://paddle.com/): also handles VAT for European countries — % fee
 - [Chargebee](https://www.chargebee.com/): revenue operation for SaaS — free plan
 - [Billsby](https://www.billsby.com/): easy and accurate billing — free plan
