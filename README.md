@@ -707,6 +707,7 @@ Most SaaS have a lot of common boilerplate, like marketing pages, login/signup f
 - [Bookstack](https://boostack.io) — NodeJS + Vue — 500$
 - [useRocket](https://userocket.herokuapp.com) — NodeJS + React — 160$
 - [Nextless JS](https://nextlessjs.com) — React + NodeJS with Serverless — 499$
+- [Boilerplates Directory](https://boilerplates.directory) — Directory comparing SaaS starter kits by stack, pricing model and features — free to browse
 
 ---
 
