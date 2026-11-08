@@ -44,6 +44,14 @@ NOTE: This repo is no longer being maintained, but you are free to fork and/or c
 - [🗺 Roadmap](#-roadmap)
 - [📢 Disclaimer](#-disclaimer)
 
+- [QantaraTools Regex Tester](https://qantaratools.com/tools/regex-tester/) - Test and validate regular expressions instantly in your browser.
+- [QantaraTools JSON Formatter](https://qantaratools.com/tools/json-formatter/) - Format, validate, and beautify JSON data securely.
+- [QantaraTools Base64 Encoder/Decoder](https://qantaratools.com/tools/base64/) - Encode and decode text or data to Base64 format client-side.
+- [QantaraTools PDF Compressor](https://qantaratools.com/tools/pdf-compress/) - Compress PDF files quickly and securely without uploading to a server.
+- [QantaraTools Image Compressor](https://qantaratools.com/tools/image-compressor/) - Optimize and compress images locally in your browser.
+- [QantaraTools JWT Decoder](https://qantaratools.com/tools/jwt-decoder/) - Inspect and decode JSON Web Tokens safely.
+- [QantaraTools QR Code Generator](https://qantaratools.com/tools/qr-generator/) - Generate custom QR codes instantly.
+
 ---
 
 ## 💫 Core Knowledge
