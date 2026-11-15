@@ -679,6 +679,7 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 - [GetTerms](https://getterms.io): A simple privacy policy generator for businesses — free plan
 - [ShipLegal](https://ship-legal.vercel.app): Generate privacy policies, terms of service & cookie policies for SaaS products. AI/LLM clauses, GDPR/CCPA — free plan
 - [Growf AI](https://www.growf.io/) - AI-powered marketing consultant that helps you research your audience, create campaigns, content and ads - free trial, starts at 199€/mo.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp): Remote MCP server for searching 2,200+ North American live-music venues, drive-time routing, and booking contacts - free
 
 
 ### Complete Full-stack Boilerplates
