@@ -678,6 +678,8 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 - [HelpHero](https://helphero.co): No-code intuitive user onboarding tours — starts at 25$/mo
 - [GetTerms](https://getterms.io): A simple privacy policy generator for businesses — free plan
 - [ShipLegal](https://ship-legal.vercel.app): Generate privacy policies, terms of service & cookie policies for SaaS products. AI/LLM clauses, GDPR/CCPA — free plan
+- [BrandShield](https://brand-checker.appwrite.network): Check SaaS domain availability across 78 TLDs, RDAP aftermarket records, and USPTO trademark collisions — free
+- [InboxShield](https://inbox-checker.appwrite.network): Audit SPF 10-lookup budgets, RFC 7489 DMARC policies, DKIM, BIMI, and MTA-STS email authentication — free scan, $2 one-time fix pack
 - [Growf AI](https://www.growf.io/) - AI-powered marketing consultant that helps you research your audience, create campaigns, content and ads - free trial, starts at 199€/mo.
 
 
