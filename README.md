@@ -581,6 +581,7 @@ If you're a web developer you can probably spin up a decent-looking landing page
   Price: free trial + 12$/mo
 - [Unicorn Platform](http://unicornplatform.com): simple landing page builder focused on SaaS. Free trial + 8$/mo.
 - [Windframe](https://www.devwares.com/windframe/): Visual builder for tailwind css for rapidly building and prototyping components, websites and webpages. Free trial + 25$/mo.
+- [Kite](https://kite.new): collaborative design canvas where your AI agents (Claude, Cursor, Codex) draw editable landing page layouts with you through a hosted MCP server, then copy any frame as HTML, React or Tailwind. Free plan + 16$/mo per editor (yearly).
 
 ### Landing page Templates
 
